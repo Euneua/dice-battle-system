@@ -1,4 +1,6 @@
-# Building a Dice Battle Simulator with Monte Carlo Analysis in Java
+A Copy of my post on [dev.to](https://dev.to/euneua/building-a-dice-battle-simulator-when-board-games-meet-monte-carlo-56bl)
+
+## Building a Dice Battle Simulator with Monte Carlo Analysis in Java
 
 Ever wondered what your actual chances are in dice-based combat systems? I built a simple Java program to find out, and the results were a big surprise.
 
