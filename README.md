@@ -1,15 +1,17 @@
-# Risk Battle System / Risiko Kampfsystem
+# Dice Battle System / Würfel-Kampfsystem
 
-A Java implementation of the Risk board game battle system with dice rolling mechanics and win probability calculations.
+A Java implementation of a dice battle system with rolling mechanics and win probability calculations.
 
-Ein Java-Programm für das Risiko-Brettspiel Kampfsystem mit Würfelmechanik und Siegwahrscheinlichkeitsberechnung.
+Ein Java-Programm für ein Würfel-Kampfsystem mit Würfelmechanik und Siegwahrscheinlichkeitsberechnung.
+
+> **Note / Hinweis:** This battle system is similar to the dice comparison mechanics used in the board game Risk (a trademark of Hasbro). This is purely an independent interpretation and not an official use of the trademark. / Dieses Kampfsystem ähnelt dem Würfelvergleichssystem, das im Brettspiel Risiko (eine Marke von Hasbro) verwendet wird. Dies ist jedoch lediglich eine eigenständige Interpretation und keine offizielle Nutzung der Marke.
 
 ---
 
 ## Features / Funktionen
 
 ### English
-- **Standard Risk Battle Rules**: Implements the official Risk game combat rules
+- **Dice Battle Rules**: Implements dice-based combat rules similar to classic strategy board games
 - **Variable Dice Rolling**: 
   - Attacker rolls 1-3 dice depending on troop count (2 troops = 1 die, 3 troops = 2 dice, 4+ troops = 3 dice)
   - Defender rolls 1-2 dice depending on troop count (1 troop = 1 die, 2+ troops = 2 dice)
@@ -22,7 +24,7 @@ Ein Java-Programm für das Risiko-Brettspiel Kampfsystem mit Würfelmechanik und
   - Defender wins: Attack fails, remaining defenders stay
 
 ### Deutsch
-- **Standard Risiko-Kampfregeln**: Implementiert die offiziellen Risiko-Kampfregeln
+- **Würfel-Kampfregeln**: Implementiert würfelbasierte Kampfregeln ähnlich klassischer Strategiebrettspiele
 - **Variable Würfelanzahl**:
   - Angreifer würfelt 1-3 Würfel je nach Truppenstärke (2 Truppen = 1 Würfel, 3 Truppen = 2 Würfel, 4+ Truppen = 3 Würfel)
   - Verteidiger würfelt 1-2 Würfel je nach Truppenstärke (1 Truppe = 1 Würfel, 2+ Truppen = 2 Würfel)
@@ -193,6 +195,6 @@ Risiko Kampfsystem/
 
 ## License / Lizenz
 
-This project is for educational purposes. Risk is a trademark of Hasbro.
+This project is for educational purposes. 
 
-Dieses Projekt dient Bildungszwecken. Risiko ist eine Marke von Hasbro.
+Dieses Projekt dient Bildungszwecken.
